@@ -1,0 +1,8 @@
+
+let preco1 = 100;
+let preco2 = 200;
+
+let compras = preco1 * preco2;
+
+console.log (compras); 
+
